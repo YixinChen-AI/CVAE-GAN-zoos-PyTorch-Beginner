@@ -21,8 +21,8 @@ Let's see the results of CVAE-GAN:
 
 you can generate any photos as you like
 
-![you can generate any photos as you like](./CVAE-GAN1.png)
+![you can generate any photos as you like](./readme_photo/CVAE-GAN1.png)
 
 you can find out how a number change to a different one. It's interesting!
 
-![you can find out how a number change to a different one. It's interesting!](./CVAE-GAN2.png)
+![you can find out how a number change to a different one. It's interesting!](./readme_photo/CVAE-GAN2.png)
