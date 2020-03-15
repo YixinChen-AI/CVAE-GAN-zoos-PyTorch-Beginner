@@ -36,7 +36,10 @@ VAE是AE模型家族中的一个生成模型，来看一下VAE生成的图像：
 ![](./readme_photo/VAE.png)  
 
 ***
-待更新。。。。。。（可以用点赞评论来催更哈哈）
+VAE-WGANGP是一个在本项目中效果最好的无需标签的无监督生成网络。图像清晰，而且过度均匀
+
+![](./readme_photo/VAE-WGANGP.png)  
+
 ***
 CVAE-GAN是比较好的效果，
 
