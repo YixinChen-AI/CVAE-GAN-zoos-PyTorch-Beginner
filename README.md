@@ -31,6 +31,11 @@ CGAN是conditional 虽然GAN是无监督学习，但是我们也可以加入标�
 ![](./readme_photo/CGAN.png)  
 
 ***
+VAE是AE模型家族中的一个生成模型，来看一下VAE生成的图像：
+
+![](./readme_photo/VAE.png)  
+
+***
 待更新。。。。。。（可以用点赞评论来催更哈哈）
 ***
 CVAE-GAN是比较好的效果，
