@@ -199,7 +199,7 @@ if __name__ == '__main__':
             ###############################################
             vae.zero_grad()
             real_label = torch.ones(batch_size).to(device)  # 定义真实的图片label为1
-            output = D(recon_data)
+            output = D(recon_data.detach())
             errVAE = criterion(output, real_label)
             errVAE.backward()
             D_G_z2 = output.mean().item()
